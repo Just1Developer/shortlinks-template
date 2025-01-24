@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+discord.xml
 
 # debug
 npm-debug.log*
